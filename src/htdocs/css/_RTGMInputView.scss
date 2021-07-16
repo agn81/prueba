@@ -1,0 +1,19 @@
+.rtgm-input-view {
+  label {
+    color:#333;
+    display:block;
+    font-weight:bold;
+  }
+
+  input.rtgm-input-title, input.rtgm-input-sa, input.rtgm-input-afe {
+    margin-bottom:16px;
+    width:100%;
+  }
+
+  .help {
+    color:#666;
+    display:block;
+    font-size:.8em;
+    font-style:italic;
+  }
+}
